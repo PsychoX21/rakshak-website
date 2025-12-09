@@ -260,7 +260,7 @@ const RakshakWebsite = () => {
                 <h1 className="text-xl sm:text-2xl font-bold bg-gradient-to-r from-cyan-400 via-blue-400 to-purple-400 bg-clip-text text-transparent">
                   Rakshak IITB
                 </h1>
-                <p className="text-xs sm:text-sm text-slate-400">2024-25 Progress & Development</p>
+                <p className="text-xs sm:text-sm text-slate-400">2025 Progress & Development</p>
               </div>
             </div>
 
@@ -286,7 +286,7 @@ const RakshakWebsite = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-cyan-500 via-purple-500 to-orange-500 rounded-full blur-2xl opacity-30 animate-pulse"></div>
                 <div className="relative px-4 sm:px-6 py-2 rounded-full border border-white/20 bg-white/5 backdrop-blur-sm">
                   <span className="text-xs sm:text-sm font-medium bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
-                    Academic Year 2024-25
+                    Academic Year 2025
                   </span>
                 </div>
               </div>
