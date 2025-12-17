@@ -1,0 +1,202 @@
+{
+  "team_leads": [
+    {
+      "name": "Advait Sivakumar",
+      "role": "Team Lead",
+      "department": "Mechanical Engineering",
+      "year": "Final Year",
+      "image": "images/leads/Advait.jpeg",
+      "github": "https://github.com/advait",
+      "linkedin": "https://linkedin.com/in/advait",
+      "instagram": "https://instagram.com/advait"
+    },
+    {
+      "name": "Shruti Ghoniya",
+      "role": "Team Lead",
+      "department": "Electrical Engineering",
+      "year": "Final Year",
+      "image": "images/leads/Shruti.jpg",
+      "github": "https://github.com/shruti",
+      "linkedin": "https://linkedin.com/in/shruti",
+      "instagram": "https://instagram.com/shruti"
+    }
+  ],
+  "subsystem_teams": {
+    "software": {
+      "lead": {
+        "name": "Rahul Verma",
+        "department": "Computer Science",
+        "year": "Third Year",
+        "image": "images/team/placeholder-soft-lead.jpg",
+        "github": "https://github.com/rahulverma",
+        "linkedin": "https://linkedin.com/in/rahulverma",
+        "instagram": "https://instagram.com/rahulverma"
+      },
+      "senior_members": [
+        {
+          "name": "Sneha Iyer",
+          "department": "Electrical Engineering",
+          "year": "Third Year",
+          "image": "images/team/placeholder-soft-senior-1.jpg",
+          "github": "https://github.com/snehaiyer",
+          "linkedin": "https://linkedin.com/in/snehaiyer",
+          "instagram": "https://instagram.com/snehaiyer"
+        },
+        {
+          "name": "Vikram Singh",
+          "department": "Computer Science",
+          "year": "Third Year",
+          "image": "images/team/placeholder-soft-senior-2.jpg",
+          "github": "https://github.com/vikramsingh",
+          "linkedin": "https://linkedin.com/in/vikramsingh",
+          "instagram": "https://instagram.com/vikramsingh"
+        }
+      ],
+      "junior_members": [
+        {
+          "name": "Ananya Reddy",
+          "department": "Computer Science",
+          "year": "Second Year",
+          "image": "images/team/placeholder-soft-junior-1.jpg",
+          "github": "https://github.com/ananyareddy",
+          "linkedin": "https://linkedin.com/in/ananyareddy",
+          "instagram": "https://instagram.com/ananyareddy"
+        },
+        {
+          "name": "Karthik Menon",
+          "department": "Electrical Engineering",
+          "year": "Second Year",
+          "image": "images/team/placeholder-soft-junior-2.jpg",
+          "github": "https://github.com/karthikmenon",
+          "linkedin": "https://linkedin.com/in/karthikmenon",
+          "instagram": "https://instagram.com/karthikmenon"
+        },
+        {
+          "name": "Divya Nair",
+          "department": "Computer Science",
+          "year": "Second Year",
+          "image": "images/team/placeholder-soft-junior-3.jpg",
+          "github": "https://github.com/divyanair",
+          "linkedin": "https://linkedin.com/in/divyanair",
+          "instagram": "https://instagram.com/divyanair"
+        }
+      ]
+    },
+    "aerodynamics": {
+      "lead": {
+        "name": "Aditya Kumar",
+        "department": "Aerospace Engineering",
+        "year": "Third Year",
+        "image": "images/team/placeholder-aero-lead.jpg",
+        "github": "https://github.com/adityakumar",
+        "linkedin": "https://linkedin.com/in/adityakumar",
+        "instagram": "https://instagram.com/adityakumar"
+      },
+      "senior_members": [
+        {
+          "name": "Meera Desai",
+          "department": "Mechanical Engineering",
+          "year": "Third Year",
+          "image": "images/team/placeholder-aero-senior-1.jpg",
+          "github": "https://github.com/meeradesai",
+          "linkedin": "https://linkedin.com/in/meeradesai",
+          "instagram": "https://instagram.com/meeradesai"
+        }
+      ],
+      "junior_members": [
+        {
+          "name": "Rohan Joshi",
+          "department": "Aerospace Engineering",
+          "year": "Second Year",
+          "image": "images/team/placeholder-aero-junior-1.jpg",
+          "github": "https://github.com/rohanjoshi",
+          "linkedin": "https://linkedin.com/in/rohanjoshi",
+          "instagram": "https://instagram.com/rohanjoshi"
+        },
+        {
+          "name": "Ishita Banerjee",
+          "department": "Mechanical Engineering",
+          "year": "Second Year",
+          "image": "images/team/placeholder-aero-junior-2.jpg",
+          "github": "https://github.com/ishitabanerjee",
+          "linkedin": "https://linkedin.com/in/ishitabanerjee",
+          "instagram": "https://instagram.com/ishitabanerjee"
+        }
+      ]
+    },
+    "avionics": {
+      "lead": {
+        "name": "Sanjay Gupta",
+        "department": "Electrical Engineering",
+        "year": "Third Year",
+        "image": "images/team/placeholder-avio-lead.jpg",
+        "github": "https://github.com/sanjaygupta",
+        "linkedin": "https://linkedin.com/in/sanjaygupta",
+        "instagram": "https://instagram.com/sanjaygupta"
+      },
+      "senior_members": [
+        {
+          "name": "Kavya Murthy",
+          "department": "Electronics Engineering",
+          "year": "Third Year",
+          "image": "images/team/placeholder-avio-senior-1.jpg",
+          "github": "https://github.com/kavyamurthy",
+          "linkedin": "https://linkedin.com/in/kavyamurthy",
+          "instagram": "https://instagram.com/kavyamurthy"
+        }
+      ],
+      "junior_members": [
+        {
+          "name": "Akash Rao",
+          "department": "Electrical Engineering",
+          "year": "Second Year",
+          "image": "images/team/placeholder-avio-junior-1.jpg",
+          "github": "https://github.com/akashrao",
+          "linkedin": "https://linkedin.com/in/akashrao",
+          "instagram": "https://instagram.com/akashrao"
+        },
+        {
+          "name": "Pooja Shetty",
+          "department": "Electronics Engineering",
+          "year": "Second Year",
+          "image": "images/team/placeholder-avio-junior-2.jpg",
+          "github": "https://github.com/poojashetty",
+          "linkedin": "https://linkedin.com/in/poojashetty",
+          "instagram": "https://instagram.com/poojashetty"
+        }
+      ]
+    },
+    "business": {
+      "lead": {
+        "name": "Neha Kapoor",
+        "department": "Management Studies",
+        "year": "Third Year",
+        "image": "images/team/placeholder-biz-lead.jpg",
+        "github": "https://github.com/nehakapoor",
+        "linkedin": "https://linkedin.com/in/nehakapoor",
+        "instagram": "https://instagram.com/nehakapoor"
+      },
+      "senior_members": [],
+      "junior_members": [
+        {
+          "name": "Amit Shah",
+          "department": "Industrial Design",
+          "year": "Second Year",
+          "image": "images/team/placeholder-biz-junior-1.jpg",
+          "github": "https://github.com/amitshah",
+          "linkedin": "https://linkedin.com/in/amitshah",
+          "instagram": "https://instagram.com/amitshah"
+        },
+        {
+          "name": "Tanvi Kulkarni",
+          "department": "Management Studies",
+          "year": "Second Year",
+          "image": "images/team/placeholder-biz-junior-2.jpg",
+          "github": "https://github.com/tanvikulkarni",
+          "linkedin": "https://linkedin.com/in/tanvikulkarni",
+          "instagram": "https://instagram.com/tanvikulkarni"
+        }
+      ]
+    }
+  }
+}

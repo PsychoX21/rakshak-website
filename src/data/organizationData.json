@@ -1,0 +1,261 @@
+{
+  "organization_profile": {
+    "name": "Team Rakshak",
+    "logo": "images/logo.png",
+    "image": "images/team_24-25.jpg",
+    "institution": "IIT Bombay",
+    "department": "Department of Aerospace Engineering",
+    "address": "Main Gate Rd, IIT Area, Powai, Mumbai, Maharashtra 400076, India",
+    "established": "2015",
+    "contact": {
+      "emails": ["rakshak.uavs@gmail.com"],
+      "phone": "+91 9175944952",
+      "location": "Aerospace Engineering Department, Main Building, IIT Bombay"
+    },
+    "social_links": {
+      "instagram": "https://www.instagram.com/rakshakiitb/",
+      "facebook": "https://www.facebook.com/TeamRakshak",
+      "linkedin": "https://www.linkedin.com/company/rakshak-iit-bombay/",
+      "youtube": "https://www.youtube.com/channel/UCASKCQSdHLXSwWB79vuLJ-A/featured",
+      "github_main": "https://github.com/rakshakiitb",
+      "github_software": "https://github.com/rakshaksoftware"
+    },
+    "mission_statement": "Team Rakshak is a student UAV team at IIT Bombay dedicated to engineering drones for disaster relief and aerospace innovation. We develop robust Unmanned Aerial Vehicles (UAVs) to support Search and Rescue Operations (SRO) in disaster-stricken areas, surveys, mapping, and wildlife conservation.",
+    "engineering_overview": "Team Rakshak designs and builds UAVs entirely from the ground up, integrating airframe design, avionics, and onboard intelligence as a single cohesive system. Our multirotor and fixed-wing platforms are developed in-house, from aerodynamic design and composite manufacturing to electronics integration and control-law tuning. The quadcopter platform that secured 1st place at CUASC was the result of this full-stack approach, combining a custom airframe, in-house electronics, and extensive flight tuning. Since the inception of the team, we have continuously redesigned fixed-wing UAVs, improving aerodynamic efficiency, composite structures, and system reliability each year. Alongside this, we have developed large custom multirotor platforms focused on heavy-payload capability. On the software side, autonomy is implemented entirely in-house, leveraging reinforcement learning-based control and Jetson-powered onboard perception to enable GPS-denied navigation and intelligent decision-making.",
+    "taglines": [
+      "Engineering the future, one UAV at a time",
+      "Masters of the Skies",
+      "Next Beyond Limits Together",
+      "Innovating for a Safer Tomorrow"
+    ]
+  },
+  "team_structure": {
+    "faculty_advisors": [
+      {
+        "name": "Prof. Rohit Vishwajit Nanavati",
+        "role": "Faculty Advisor",
+        "image": "images/facad/facad-rohit-nanavat.jpg",
+        "description": "Guiding the team with expertise and experience in aerospace engineering.",
+        "expertise": ["Aerospace Engineering", "Research Guidance", "Technical Mentorship"]
+      },
+      {
+        "name": "Prof. Dwaipayan Mukherjee",
+        "role": "Faculty Advisor",
+        "image": "images/facad/facad-dwaipayan-mukherjee.png",
+        "description": "Providing technical guidance and industry insights.",
+        "expertise": ["Control Systems", "Flight Mechanics", "System Integration"]
+      }
+    ]
+  },
+  "fleet_specifications": [
+    {
+      "name": "Ares",
+      "year": "2024",
+      "role": "Flagship Autonomous UAV",
+      "competition": "UAS Challenge 2024",
+      "description": "A high-performance UAV developed for the UAS Challenge 2024, featuring a carbon fiber airframe with water-resistant EPP wings and a modular, tool-free assembly that can be completed in under two minutes. The platform supports autonomous takeoff and landing, waypoint-based navigation, and precision payload drop capabilities.",
+      "specs": {
+        "wingspan": "2.2 m",
+        "weight": "5 kg",
+        "max_payload": "8 kg",
+        "cruise_speed": "14 m/s",
+        "endurance": "35 minutes",
+        "takeoff_dist": "< 10 meters"
+      },
+      "media": { "image": "images/planes/ares.jpg", "promo_video": "images/Ares UAV Promo.mp4" }
+    },
+    {
+      "name": "Skywalker",
+      "year": "2017",
+      "role": "Long-range Surveillance",
+      "competition": "AUVSI-SUAS",
+      "description": "Designed for AUVSI-SUAS. Fully autonomous operation including object detection, classification, interoperability, and waypoint navigation.",
+      "specs": { "gross_weight": "7.5 kg", "cruise_speed": "12 m/s", "endurance": "30-40 minutes", "range": "15 km" },
+      "media": { "image": "images/planes/skywalker.jpg" }
+    },
+    {
+      "name": "Sandy 2.0",
+      "year": "2021",
+      "role": "Twin-Motor Test Bed",
+      "description": "Twin-motor variant of Sandy. Highly stable with vertical loop capabilities. Used for testing image capture features.",
+      "specs": { "gross_weight": "2.25 kg", "cruise_speed": "12 m/s" },
+      "media": { "image": "images/planes/sandy2.0.jpg" }
+    },
+    {
+      "name": "Sandy",
+      "year": "2020",
+      "role": "Component Test Bed",
+      "description": "Small plane for component testing. First test dummy for autonomous flying algorithms.",
+      "media": { "image": "images/planes/sandy.jpg" }
+    },
+    {
+      "name": "Smokey",
+      "year": "2015",
+      "role": "Competition Plane",
+      "description": "First plane in the team's history to feature ingrained autonomous systems.",
+      "specs": { "gross_weight": "5 kg", "cruise_speed": "12 m/s" },
+      "media": { "image": "images/planes/smokey.jpg" }
+    },
+    {
+      "name": "SAE Plane",
+      "year": "2015",
+      "role": "Heavy Lift",
+      "description": "Represented the team in SAE-2015. 7th place in Design.",
+      "specs": { "empty_weight": "4.5 kg", "payload_capacity": "2 kg" },
+      "media": { "image": "images/planes/sae-plane.jpg" }
+    }
+  ],
+  "competitions_and_projects": [
+    {
+      "title": "Air Cargo Challenge",
+      "description": "Inspired by the North American DBF competition. A design, build, and fly challenge for university students, organized biennially.",
+      "status": "Targeted"
+    },
+    {
+      "title": "AUVSI SUAS",
+      "description": "Requires students to design a UAS capable of autonomous flight, navigation, and remote sensing via onboard payload sensors.",
+      "status": "Targeted"
+    },
+    {
+      "title": "Smart India Hackathon",
+      "description": "A nationwide initiative providing students a platform to solve pressing problems, inculcating a culture of product innovation.",
+      "status": "Active"
+    },
+    {
+      "title": "UAS Challenge (IMechE)",
+      "description": "Full design and build cycle of a 10kg UAS for specific autonomous mission objectives, culminating in a final fly-off event.",
+      "status": "Targeted"
+    },
+    {
+      "title": "Youth Conclave (INAE)",
+      "description": "Engineering students prepare a complete report on a problem statement and arrive at a detailed case study and strategy.",
+      "status": "Past"
+    },
+    {
+      "title": "SAE Aero Design",
+      "description": "Designing aircraft to lift maximum payload under strict constraints.",
+      "highlights": ["Payload optimization", "Advanced aerodynamic design", "Precision manufacturing"]
+    },
+    {
+      "title": "Aerospace Innovation",
+      "description": "Pushing boundaries of conventional design through cutting-edge research.",
+      "highlights": ["Sustainable aviation tech", "Advanced materials", "Next-gen propulsion"]
+    }
+  ],
+  "subsystems_detailed": {
+    "software": {
+      "id": "software",
+      "title": "Software & Intelligence",
+      "tagline": "AI-Powered Autonomous Navigation",
+      "description": "Developing onboard intelligence for UAVs using real-time vision, edge computing, and machine learning to detect, classify, and geotag mission targets.",
+      "focus": "Vision-based autonomy for GPS-denied environments with real-time edge-AI optimization.",
+      "workstreams": [
+        "Vision-based navigation using optical flow (Python, OpenCV, ROS2)",
+        "Edge AI deployment on Jetson platforms (C++, CUDA, TensorRT)",
+        "Sub-15ms onboard inference for object detection",
+        "Reinforcement learning-based control and decision-making",
+        "Autonomous geotagging and server-side data upload (interoperability)",
+        "Onboard mapping of surveyed regions"
+      ],
+      "repositories": [
+        {
+          "name": "NIDAR 2025",
+          "link": "https://github.com/rakshaksoftware/NIDAR-2025",
+          "desc": "Complete autonomy and perception stack developed for the NIDAR competition.",
+          "tags": ["Competition", "Autonomy", "Vision"]
+        },
+        {
+          "name": "Research & Development",
+          "link": "https://github.com/rakshaksoftware/Research-and-Development",
+          "desc": "Research work on drone-to-drone communication and advanced imaging techniques.",
+          "tags": ["Research", "Communication", "Imaging"]
+        },
+        {
+          "name": "CUASC 2025 Code",
+          "link": "https://github.com/rakshaksoftware/CUASC-2025-Code",
+          "desc": "Competition-tested autonomy controllers and mission logic used at CUASC 2025.",
+          "tags": ["Competition", "Control", "Planning"]
+        },
+        {
+          "name": "Lufthansa 2024 R&D",
+          "link": "https://github.com/rakshaksoftware/Lufthansa-2024-RnD",
+          "desc": "Collaborative research material including reports and experimental notebooks.",
+          "tags": ["Research", "Collaboration"]
+        }
+      ]
+    },
+    "aerodynamics": {
+      "id": "aerodynamics",
+      "title": "Aerodynamics & Manufacturing",
+      "tagline": "Airframe Design, Composites, and Structural Engineering",
+      "description": "Responsible for the complete airframe design, aerodynamic analysis, material selection, and manufacturing of fixed-wing and multirotor platforms.",
+      "focus": "Airfoil analysis, composite structures, and manufacturable high-performance airframes.",
+      "documentation_link": "https://docs.google.com/document/d/1ea3b8s76pqRg-qTsHp_CMFMldWKa0Wm9cOb4ZzirdIw/edit?usp=sharing",
+      "technical_sections": [
+        {
+          "title": "Airfoil Analysis & Selection",
+          "content": "Extensive XFLR5 analysis of multiple airfoils including NACA 4412, S1221, E222, E854, and MH-113. NACA 4412 selected for wings due to superior low-AoA efficiency and stability; NACA 0012 chosen for tail surfaces."
+        },
+        {
+          "title": "Materials & Structures",
+          "content": "Use of prepreg carbon fibre (TENAX UMS), ROHACELL IG-F foam cores, aluminium internal structures (laser-cut ribs), and hybrid 3D-printed components (PLA/TPU) optimized for strength-to-weight ratio."
+        },
+        {
+          "title": "Composite Manufacturing",
+          "content": "Autoclave-cured carbon fibre components at 120°C and 4 bar pressure. Semi-monocoque fuselage design with precision aluminium moulds and epoxy bonding."
+        },
+        {
+          "title": "Stability & Configuration",
+          "content": "Static margin estimation, CG optimization, downwash angle analysis, and tail sizing using XFLR5 and empirical design methods."
+        },
+        {
+          "title": "Payload Systems & Deployment",
+          "content": "Design and integration of payload deployment mechanisms for precise delivery of cargo, including provisions for deploying a UGV payload capable of navigating to target locations post-drop."
+        }
+      ]
+    },
+    "avionics": {
+      "id": "avionics",
+      "title": "Avionics & Control",
+      "tagline": "Electronics, Sensing, and Flight Control Systems",
+      "description": "Designing and integrating the electronic, sensing, and control systems that enable stable, autonomous, and reliable flight.",
+      "focus": "Flight controllers, sensors, communication systems, and control-law tuning for fixed-wing and multirotor UAVs.",
+      "notion_link": "https://www.notion.so/invite/8c9ab16462b58a086b13b19a566e5d032c926936",
+      "work_areas": [
+        {
+          "title": "Flight Control & Tuning",
+          "desc": "Design and tuning of control laws for fixed-wing and multirotor platforms, including PID tuning through extensive flight testing across multiple configurations."
+        },
+        {
+          "title": "Sensor Integration & Calibration",
+          "desc": "Integration and calibration of IMUs, GPS, barometers, magnetometers, and other sensors to ensure reliable state estimation and robust flight performance."
+        },
+        {
+          "title": "Communication Systems",
+          "desc": "Implementation of reliable communication links between UAVs, ground control stations, and servers, including telemetry, command, and data transfer."
+        },
+        {
+          "title": "Autonomous Navigation & Mission Execution",
+          "desc": "Implementation of MAVLink-based autonomous navigation including path planning, obstacle avoidance, autonomous takeoff and landing, and execution of mission logic in coordination with onboard software systems."
+        },
+        {
+          "title": "System Integration & Testing",
+          "desc": "End-to-end integration of airframe, avionics, and software, followed by structured ground tests and flight tests to validate system reliability."
+        }
+      ]
+    },
+    "business": {
+      "id": "business",
+      "title": "Business & Marketing",
+      "tagline": "Powering Operations, Partnerships, and Outreach",
+      "description": "Handles non-technical work including sponsorships, industry partnerships, publicity, accounts, logistics, social media, and design & graphics.",
+      "key_focus": [
+        "Monetary association with sponsors",
+        "Technical association with leading industries",
+        "Design & Graphics",
+        "Publicity & Social Media",
+        "Accounts & Logistics"
+      ]
+    }
+  }
+}
